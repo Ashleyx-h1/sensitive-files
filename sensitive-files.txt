@@ -38,4 +38,5 @@ wp-json/wp/v2/posts?status=any
 wp-json/wp/v2/pages?status=private
 wp-json/elementor/v1/system-info
 web/assets/data/.env
-/env_config_info.json
+env_config_info.json
+.ng-openapi-gen/config.json
