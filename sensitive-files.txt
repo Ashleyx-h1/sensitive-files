@@ -40,3 +40,4 @@ wp-json/elementor/v1/system-info
 web/assets/data/.env
 env_config_info.json
 .ng-openapi-gen/config.json
+api-docs/config.json
